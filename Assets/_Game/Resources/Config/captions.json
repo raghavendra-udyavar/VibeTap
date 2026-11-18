@@ -1,0 +1,416 @@
+{
+ "fail": [
+  "bestie that was the NPC",
+  "oop",
+  "bruh",
+  "not like this",
+  "the vibes were NOT vibing",
+  "respectfully, what",
+  "that door had red flag energy",
+  "you chose... poorly",
+  "aura -25, ego -100",
+  "the audacity",
+  "we saw that. everyone saw that.",
+  "that's a choice",
+  "main character? more like extra #4",
+  "plot twist: wrong door",
+  "your aura just left the chat",
+  "certified flop moment",
+  "who raised you",
+  "error 404: vibe not found",
+  "not the {wrong}. oh no.",
+  "\"{wrong}\"?? in THIS economy?",
+  "it was {right}. it was always {right}.",
+  "the door said no",
+  "bonk",
+  "skill issue (affectionate)",
+  "caught in 4K",
+  "your instincts need a software update",
+  "that's giving wrong door",
+  "mom come pick me up",
+  "mid choice, mid outcome",
+  "crashed and burned (lovingly)",
+  "L + wrong door",
+  "that door was a trap and you knew it",
+  "we need to talk about that pick",
+  "delete that from your memory",
+  "the vibe check bounced",
+  "nope. nope. nope.",
+  "your aura has left the building",
+  "in what universe",
+  "chat is this real",
+  "that's one for the blooper reel",
+  "the door is laughing at you",
+  "spiritually, that was a faceplant",
+  "physically, also a faceplant",
+  "reconsider everything",
+  "lowkey tragic",
+  "highkey tragic",
+  "red flag collector spotted",
+  "congrats, you found the NPC",
+  "you walked into that one",
+  "the vibe police have been notified",
+  "bestie... no",
+  "not the move",
+  "yikes on bikes",
+  "emotional damage",
+  "that pick aged like milk",
+  "sir/ma'am, this is the wrong door",
+  "you had one job",
+  "did you even read it",
+  "narrator: it was the wrong door",
+  "sending thoughts and prayers to your aura",
+  "ouch, my vibes",
+  "that's gonna leave a mark",
+  "nobody tell the group chat",
+  "we're pretending that didn't happen",
+  "brain buffering...",
+  "an interesting strategy",
+  "blink twice if you need help",
+  "wrong door, right energy?",
+  "nope, try again",
+  "the other door was RIGHT THERE",
+  "it's giving confusion",
+  "the cringe is coming from inside the house",
+  "door said \"new phone who dis\"",
+  "you've been NPC'd",
+  "tragic backstory unlocked",
+  "aura bankruptcy loading",
+  "this is why we can't have nice things",
+  "the plot thickens (badly)",
+  "that one's going in the roast",
+  "I'm telling everyone",
+  "cooked",
+  "well that happened",
+  "fumbled the bag",
+  "dropped the ball, then tripped on it",
+  "not your finest hour",
+  "not your finest second either",
+  "we'll edit that out",
+  "door-ble trouble",
+  "whoopsie daisy",
+  "your vibe has been rejected",
+  "are you a {wrong} person? concerning",
+  "the right answer was {right}, just saying",
+  "call that a speedrun to zero",
+  "hold my aura",
+  "nah fam",
+  "the universe said no",
+  "that's a paddlin'",
+  "mission failed successfully"
+ ],
+ "freeze": [
+  "you froze",
+  "buffering...",
+  "hello? anyone home?",
+  "the doors don't wait, bestie",
+  "frozen like a pizza",
+  "loading personality...",
+  "staring contest lost",
+  "did your thumb fall asleep",
+  "decision paralysis speedrun",
+  "indecisive era",
+  "blue screen of vibes",
+  "paused for dramatic effect?",
+  "too slow, the vibe left",
+  "deer in headlights",
+  "you hesitated. the door didn't.",
+  "AFK irl",
+  "thinking emoji, forever",
+  "choose. anything. please.",
+  "the door closed without you",
+  "statue mode activated",
+  "analysis paralysis",
+  "the moment passed",
+  "lag spike (it's you)",
+  "not even a swipe?",
+  "ice ice baby"
+ ],
+ "hype": [
+  "main character unlocked",
+  "UNHINGED STREAK",
+  "on fire",
+  "the vibes are immaculate",
+  "aura farming",
+  "built different",
+  "no notes",
+  "iconic behavior",
+  "ate and left no crumbs",
+  "certified vibe expert",
+  "the doors fear you",
+  "speedrunning taste",
+  "top tier instincts",
+  "locked in",
+  "we stan",
+  "it's giving genius",
+  "untouchable",
+  "vibe royalty",
+  "cooking",
+  "absolutely sent"
+ ],
+ "roastWrong": [
+  "picked \"{wrong}\" for \"{prompt}\". seek help.",
+  "\"{prompt}\" and you went with \"{wrong}\"? bold.",
+  "we need to talk about \"{wrong}\"",
+  "\"{wrong}\" is not the answer to \"{prompt}\". it never was.",
+  "your hand chose \"{wrong}\". your heart should file a complaint.",
+  "somewhere, \"{right}\" is crying because you picked \"{wrong}\"",
+  "\"{wrong}\"?? for \"{prompt}\"?? respectfully, log off.",
+  "you saw \"{prompt}\" and thought \"{wrong}\". incredible.",
+  "the group chat will hear about \"{wrong}\"",
+  "\"{wrong}\" on an easy one. legendary fumble.",
+  "picking \"{wrong}\" is a personality trait now",
+  "\"{prompt}\" → \"{wrong}\". the math isn't mathing.",
+  "historians will study your \"{wrong}\" pick",
+  "you and \"{wrong}\" deserve each other",
+  "\"{wrong}\". that's it. that's the roast.",
+  "your aura died for \"{wrong}\". worth it?",
+  "the answer was \"{right}\", but sure, \"{wrong}\"",
+  "\"{wrong}\" was a cry for help and we heard it",
+  "we'd explain \"{right}\" but you'd pick \"{wrong}\" again",
+  "\"{prompt}\"? you served \"{wrong}\". the jury is out."
+ ],
+ "roastFreeze": [
+  "froze on \"{prompt}\". buffering irl.",
+  "\"{prompt}\" broke your brain. just sat there.",
+  "you looked at \"{prompt}\" and simply left your body",
+  "\"{prompt}\" had you in a staring contest. you lost.",
+  "no swipe on \"{prompt}\". indecision era confirmed.",
+  "\"{prompt}\" was too powerful. you froze.",
+  "couldn't even pick on \"{prompt}\". fence-sitter supreme.",
+  "\"{prompt}\" → *dial-up noises*"
+ ],
+ "roastPerfect": [
+  "zero misses. touch grass maybe?",
+  "flawless. honestly suspicious.",
+  "no mistakes. are you the algorithm?",
+  "perfect run. your aura needs sunglasses.",
+  "not a single miss. we're scared of you.",
+  "clean sweep. the doors want a rematch."
+ ],
+ "archetypes": [
+  {
+   "name": "Vibe Tourist",
+   "cat": "energy",
+   "band": 0
+  },
+  {
+   "name": "Lost Hype Beast",
+   "cat": "energy",
+   "band": 0
+  },
+  {
+   "name": "Chaotic Neutral",
+   "cat": "energy",
+   "band": 1
+  },
+  {
+   "name": "Certified Yapper",
+   "cat": "energy",
+   "band": 1
+  },
+  {
+   "name": "Main Character",
+   "cat": "energy",
+   "band": 2
+  },
+  {
+   "name": "Walking Aesthetic",
+   "cat": "energy",
+   "band": 2
+  },
+  {
+   "name": "NPC Magnet",
+   "cat": "avoid",
+   "band": 0
+  },
+  {
+   "name": "Professional Bystander",
+   "cat": "avoid",
+   "band": 0
+  },
+  {
+   "name": "Lowkey Dodger",
+   "cat": "avoid",
+   "band": 1
+  },
+  {
+   "name": "Drama Sidestepper",
+   "cat": "avoid",
+   "band": 1
+  },
+  {
+   "name": "Cringe Radar",
+   "cat": "avoid",
+   "band": 2
+  },
+  {
+   "name": "Red Flag Detector",
+   "cat": "avoid",
+   "band": 2
+  },
+  {
+   "name": "Beige Enthusiast",
+   "cat": "aesthetic",
+   "band": 0
+  },
+  {
+   "name": "Pinterest Intern",
+   "cat": "aesthetic",
+   "band": 0
+  },
+  {
+   "name": "Mood Board Goblin",
+   "cat": "aesthetic",
+   "band": 1
+  },
+  {
+   "name": "Thrift Store Oracle",
+   "cat": "aesthetic",
+   "band": 1
+  },
+  {
+   "name": "Aesthetic Royalty",
+   "cat": "aesthetic",
+   "band": 2
+  },
+  {
+   "name": "Moodboard Deity",
+   "cat": "aesthetic",
+   "band": 2
+  },
+  {
+   "name": "Socially Buffering",
+   "cat": "situational",
+   "band": 0
+  },
+  {
+   "name": "Awkward Wave Champion",
+   "cat": "situational",
+   "band": 0
+  },
+  {
+   "name": "Group Chat Survivor",
+   "cat": "situational",
+   "band": 1
+  },
+  {
+   "name": "Read-the-Room Rookie",
+   "cat": "situational",
+   "band": 1
+  },
+  {
+   "name": "Social Butterfly",
+   "cat": "situational",
+   "band": 2
+  },
+  {
+   "name": "Room Reader Supreme",
+   "cat": "situational",
+   "band": 2
+  },
+  {
+   "name": "Mildly Unhinged",
+   "cat": "rank",
+   "band": 0
+  },
+  {
+   "name": "Lukewarm Takes Only",
+   "cat": "rank",
+   "band": 0
+  },
+  {
+   "name": "Delulu Enthusiast",
+   "cat": "rank",
+   "band": 1
+  },
+  {
+   "name": "Chaos Apprentice",
+   "cat": "rank",
+   "band": 1
+  },
+  {
+   "name": "Unhinged Royalty",
+   "cat": "rank",
+   "band": 2
+  },
+  {
+   "name": "Final Boss of Chaos",
+   "cat": "rank",
+   "band": 2
+  },
+  {
+   "name": "Tone Deaf Legend",
+   "cat": "sound",
+   "band": 0
+  },
+  {
+   "name": "Volume Button Masher",
+   "cat": "sound",
+   "band": 0
+  },
+  {
+   "name": "Playlist Curator",
+   "cat": "sound",
+   "band": 1
+  },
+  {
+   "name": "Aux Cord Hopeful",
+   "cat": "sound",
+   "band": 1
+  },
+  {
+   "name": "Villain Arc Composer",
+   "cat": "sound",
+   "band": 2
+  },
+  {
+   "name": "Bass Drop Prophet",
+   "cat": "sound",
+   "band": 2
+  },
+  {
+   "name": "Red Flag Collector",
+   "cat": "ick",
+   "band": 0
+  },
+  {
+   "name": "Green Flag Blind",
+   "cat": "ick",
+   "band": 0
+  },
+  {
+   "name": "Ick Apprentice",
+   "cat": "ick",
+   "band": 1
+  },
+  {
+   "name": "Situationship Survivor",
+   "cat": "ick",
+   "band": 1
+  },
+  {
+   "name": "Ick Detector 3000",
+   "cat": "ick",
+   "band": 2
+  },
+  {
+   "name": "Green Flag Magnet",
+   "cat": "ick",
+   "band": 2
+  }
+ ],
+ "titles": [
+  "Fresh Spawn",
+  "Lowkey Legend",
+  "Certified Yapper",
+  "Vibe Curator",
+  "Aura Farmer",
+  "Door Whisperer",
+  "Main Character",
+  "Unhinged Icon",
+  "Delulu Deity",
+  "Final Boss",
+  "Vibe Overlord"
+ ]
+}

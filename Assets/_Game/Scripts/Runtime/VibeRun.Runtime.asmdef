@@ -1,0 +1,14 @@
+{
+    "name": "VibeRun.Runtime",
+    "rootNamespace": "VibeRun",
+    "references": [ "VibeRun.Core" ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

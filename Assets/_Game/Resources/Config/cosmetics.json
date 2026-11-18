@@ -1,0 +1,22 @@
+{
+  "items": [
+    { "id": "fit_blob",     "kind": "fit",   "name": "Classic Blob",          "price": 0,   "color": "#FFD23F", "accent": "#1B1B1F", "style": "none" },
+    { "id": "fit_hoodie",   "kind": "fit",   "name": "Thrift-Store Hoodie",   "price": 60,  "color": "#7BD389", "accent": "#2D6A4F", "style": "hood" },
+    { "id": "fit_y2k",      "kind": "fit",   "name": "Y2K Butterfly Set",     "price": 90,  "color": "#FF8FD8", "accent": "#7A3EF0", "style": "butterfly" },
+    { "id": "fit_goblin",   "kind": "fit",   "name": "Goblin-Mode Sweats",    "price": 120, "color": "#9AA58B", "accent": "#4A4E3C", "style": "beanie" },
+    { "id": "fit_cottage",  "kind": "fit",   "name": "Cottage Picnic Dress",  "price": 150, "color": "#F7C59F", "accent": "#C0392B", "style": "flower" },
+    { "id": "fit_cyber",    "kind": "fit",   "name": "Neon Cyber Jacket",     "price": 200, "color": "#3AE8FF", "accent": "#FF2E88", "style": "visor" },
+    { "id": "fit_academia", "kind": "fit",   "name": "Dark Academia Coat",    "price": 250, "color": "#8C6A4F", "accent": "#2B1D14", "style": "glasses" },
+    { "id": "fit_boss",     "kind": "fit",   "name": "Final Boss Cape",       "price": 320, "color": "#E63946", "accent": "#1D1D1D", "style": "crown" },
+    { "id": "fit_angel",    "kind": "fit",   "name": "Angelcore Halo",        "price": 400, "color": "#F8F9FF", "accent": "#FFD700", "style": "halo" },
+    { "id": "fit_gremlin",  "kind": "fit",   "name": "3am Gremlin",           "price": 500, "color": "#4ADE80", "accent": "#14532D", "style": "horns" },
+    { "id": "trail_sparkle","kind": "trail", "name": "Sparkle Dust",          "price": 0,   "color": "#FFF3B0", "accent": "#FFD23F", "style": "sparkle" },
+    { "id": "trail_flame",  "kind": "trail", "name": "Flame",                 "price": 100, "color": "#FF7B00", "accent": "#FF2E00", "style": "flame" },
+    { "id": "trail_glitch", "kind": "trail", "name": "Pixel Glitch",          "price": 160, "color": "#3AE8FF", "accent": "#FF2E88", "style": "pixel" },
+    { "id": "trail_rain",   "kind": "trail", "name": "Rain Cloud",            "price": 220, "color": "#A0C4FF", "accent": "#5A6E8C", "style": "rain" },
+    { "id": "trail_hearts", "kind": "trail", "name": "Delulu Hearts",         "price": 300, "color": "#FF8FAB", "accent": "#FF2E63", "style": "hearts" },
+    { "id": "frame_polaroid","kind": "frame","name": "Polaroid",              "price": 0,   "color": "#FFFFFF", "accent": "#1B1B1F", "style": "polaroid" },
+    { "id": "frame_receipt","kind": "frame", "name": "Receipt",               "price": 80,  "color": "#FAF7F0", "accent": "#3D3D3D", "style": "receipt" },
+    { "id": "frame_notes",  "kind": "frame", "name": "Notes App",             "price": 140, "color": "#FFF8D6", "accent": "#E0A800", "style": "notes" }
+  ]
+}
