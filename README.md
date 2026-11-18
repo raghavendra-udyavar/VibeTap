@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Vibe Check
+# ✨ Vibe Tap
 
 **A one-thumb swipe runner where you pick the right "vibe" door in under a second.**
 
